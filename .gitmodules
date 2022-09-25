@@ -1,0 +1,6 @@
+[submodule "blog-backend-thinkphp"]
+	path = blog-backend-thinkphp
+	url = git@gitee.com:wild2rift/blog-backend-thinkphp.git
+[submodule "blog-frontend-vue"]
+	path = blog-frontend-vue
+	url = git@gitee.com:wild2rift/blog-frontend-vue.git
